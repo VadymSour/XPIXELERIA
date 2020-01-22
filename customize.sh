@@ -3,7 +3,7 @@
 #
 
 MINAPI=29
-#MAXAPI=25
+#MAXAPI=30
 #DYNLIB=true
 #DEBUG=true
 
