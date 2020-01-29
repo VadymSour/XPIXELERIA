@@ -3,9 +3,9 @@
 #
 
 MINAPI=29
-#MAXAPI=30
-#DYNLIB=true
-#DEBUG=true
+MAXAPI=29
+DYNLIB=true
+DEBUG=false
 
 REPLACE="
 "
